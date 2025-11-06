@@ -32,5 +32,4 @@ The Arduino UNO acts as the central controller, interfacing with:
 - **LCD Display (I2C)** for feedback  
 - **Buzzer / LED** for alerts  
 
-Refer to the system architecture diagram below:
 
